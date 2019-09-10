@@ -30,7 +30,7 @@ classes.  See the separate [Google Mock documentation](googlemock/README.md).
 More detailed documentation for googletest (including build instructions) are
 in its interior [googletest/README.md](googletest/README.md) file.
 
-## Features ##
+##  Features ##
 
   * An [xUnit](https://en.wikipedia.org/wiki/XUnit) test framework.
   * Test discovery.
